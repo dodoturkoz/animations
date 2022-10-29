@@ -9,6 +9,7 @@ https://user-images.githubusercontent.com/88326598/198693994-ad5fab90-7d52-4b75-
 
 ## Circles and Dots
 
+This illustrates the example of a non-uniform distribution on a circle.
 Music: Take Five by Takeshi Inomata
 
 https://user-images.githubusercontent.com/88326598/198826142-67858670-b43e-4fe1-93a9-86d263764c7a.mp4
